@@ -307,3 +307,5 @@ if __name__ == "__main__":
     main()
 
 !pip -q install aiohttp
+
+!python bymin.py
